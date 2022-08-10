@@ -81,10 +81,7 @@ window.hippoWidget.on(eventname, callback);
 
 **Events**
 
-<img width="1516" alt="image" src="https://user-images.githubusercontent.com/110969744/183869692-04de73e2-4d50-4222-a1f0-7849bb46746d.png">
-<img width="1501" alt="image" src="https://user-images.githubusercontent.com/110969744/183869844-ef54554c-77c9-4b83-adb8-85441b60ff41.png">
-<img width="1495" alt="image" src="https://user-images.githubusercontent.com/110969744/183869895-cd8b1f15-21f7-4aa2-b0d2-ade058d1edca.png">
-
+![image](https://user-images.githubusercontent.com/110969744/183872228-bad76566-75d7-44ec-a995-93b93c1aac80.png)
 
 
 
