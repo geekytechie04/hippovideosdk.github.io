@@ -489,13 +489,11 @@ Our Player is lightweight, aesthetically pleasing, and provides a better experie
 
 Get a glimpse of all the video details like the video duration and video name in the thumbnail itself. This way, your audience knows what exactly they can look forward to in the video.
 
-![new-feature-update-.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/40242a81-609a-45e4-9b9e-ec0bef5be4ea/new-feature-update-.png)
 
 - **Teleprompter**
 
 Hippo Video allows you to read the script directly from the screen and record professional videos. This way, anyone can get started with videos faster, even if they have zero experience recording videos. You can set up separate scripts for each category so when anyone is recording videos, they would know which script they should go for, making it easier for them to prepare scripts, saving a lot of time.
 
-![ezgif.com-gif-maker (4).gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/85d4864a-3be9-46a4-aa62-8702ed6b9e1d/ezgif.com-gif-maker_(4).gif)
 
 - **Markup Tools**
 
@@ -503,19 +501,16 @@ Draw attention to important information with the Highlight option. Draw and writ
 
 With the help of the cursor feature, you can make sure your audience travels along with you while watching your video. This way, they are both involved and engaged throughout the video.
 
-![ezgif.com-gif-maker (3).gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/679f7c7c-ebe7-4c5a-83c6-dfe6a2aeed69/ezgif.com-gif-maker_(3).gif)
 
 - **Circular Webcam**
 
 Hippo Video offers different webcam shape options. You can change your webcam shape with just a click. You can either choose a circular webcam or a rectangular webcam. A circular webcam enhances the look and feels of your videos.
 
-![ezgif.com-gif-maker (1).gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/39c0d710-1fcd-4401-95b0-20955ba2f27c/ezgif.com-gif-maker_(1).gif)
 
 - **Extension-less Recording**
 
 With Hippo Video’s extension-less recording option, you can record videos seamlessly without any additional setup. This can be done in any browser like Chrome, Firefox, Opera, Edge(latest version 80+), and Safari. Also, there is no IT/Compliance permission needed in enterprises to install the Chrome Plugin for recording.
 
-![screen1.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bcf86f03-5f1e-458a-9405-7b606b8773b1/screen1.gif)
 
 - **Facial Cues and Lighting**
 
@@ -523,13 +518,11 @@ Hippo Video allows you to quickly test your webcam before you start recording vi
 
 - **Reply With Video**
 
-[CAM_2b.webp](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bbfc94a2-349e-41e2-8a56-b6a99023ac25/CAM_2b.webp)
 
 Hippo Video lets you share your videos with the world and with the video reply option, anyone can record videos as a response to your videos. You don’t have to be signed up with Hippo Video to record videos with Hippo Video “Video Reply” option. Be it feedback from your audience or answering a question, anyone can record a video reply within minutes.
 
 ### Features in Roadmap
 
-![ezgif.com-gif-maker.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c5093f0a-b395-4c26-8b43-70b7f17fd86d/ezgif.com-gif-maker.gif)
 
 - **Video Stitching**
 
@@ -537,17 +530,15 @@ With Hippo Video, you can now record multiple videos and stitch them together as
 
 - **Timeline Comments & Emojis**
 
-![ezgif.com-gif-maker (5).gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/644623dd-4294-480e-8b48-b572b2cd20ca/ezgif.com-gif-maker_(5).gif)
-
 Timeline comments & Emojis - Along with the new sleek video player, Hippo Video also provides features like emoji-based likes on the timeline that helps you to express yourself through reactions. The player also has the ability to capture comments on the timeline which makes it easy for your audience to react to a particular chapter in the video and deliver feedback then and there while watching the video.
 
-![ezgif.com-gif-maker (6).gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c6e13ecd-9928-4dd4-a5da-fded36a641f2/ezgif.com-gif-maker_(6).gif)
+
 
 - **Virtual Background**
 
 With Hippo Video’s virtual background feature, you can now change your video background and record professional videos. You can select the background of your choice or also choose to add any images as the video background.
 
-![ezgif.com-gif-maker (2).gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ede83798-9412-4122-b022-2833d3771a14/ezgif.com-gif-maker_(2).gif)
+
 
 ## **Infrastructure and Compliance**
 
