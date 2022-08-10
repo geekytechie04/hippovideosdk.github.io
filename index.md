@@ -81,7 +81,9 @@ window.hippoWidget.on(eventname, callback);
 
 **Events**
 
-[Untitled](https://www.notion.so/41fcdfa21acf4cfc904e6f4965fbf6a3)
+<img width="1516" alt="image" src="https://user-images.githubusercontent.com/110969744/183869692-04de73e2-4d50-4222-a1f0-7849bb46746d.png">
+
+
 
 ### Import API
 
